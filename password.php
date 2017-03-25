@@ -1,6 +1,6 @@
 <?php
 //定义你的访问密码后上传
-$auth = 'wuyukang';
+$auth = '';
 
 define('IN_SYS', true);
 require './framework/bootstrap.inc.php';
